@@ -1,0 +1,17 @@
+.flex{
+    display: flex;
+}
+
+.justifyCenter{
+    justify-content: center;
+}
+
+.wrap{
+    flex-wrap: wrap;
+}
+
+#date{
+    margin-left: 80px;
+    margin-right: 80px;
+    
+}
