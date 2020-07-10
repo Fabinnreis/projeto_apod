@@ -1,0 +1,14 @@
+.flex{
+    display: flex;
+}
+
+.justifyCenter{
+    justify-content: center;
+}
+
+.wrap{
+    flex-wrap: wrap;
+}
+#dataArea{
+    width: 70%;
+}
